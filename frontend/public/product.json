@@ -1,0 +1,443 @@
+[
+    {
+        "name": "HP Pavilion 15",
+        "details": "HP Pavilion 15 with Intel Core i7, 16GB RAM, 512GB SSD.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-abyss-blue-04-500x500.webp",
+        "category": "laptop",
+        "price": 899.99
+    },
+    {
+        "name": "Logitech MX Master 3",
+        "details": "Advanced wireless mouse with ergonomic design, precision tracking, and customizable buttons.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/meetion/mt-gm015/mt-gm015-01-500x500.jpg",
+        "category": "mouse",
+        "price": 99.99
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "details": "Apple iPhone 14 Pro with 128GB storage, A16 Bionic chip, and triple camera system.",
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Black-Titanium-2734.jpg",
+        "category": "mobile",
+        "price": 1099.99
+    },
+    {
+        "name": "Razer BlackWidow V3",
+        "details": "Mechanical gaming keyboard with customizable RGB lighting and tactile switches.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/rapoo/v700-8a/v700-8a-01-500x500.webp",
+        "category": "keyboard",
+        "price": 149.99
+    },
+    {
+        "name": "Dell XPS 13",
+        "details": "Dell XPS 13 with Intel Core i7, 16GB RAM, 512GB SSD, 13.4-inch display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-6-13abr8/yoga-6-13abr8-001-500x500.webp",
+        "category": "laptop",
+        "price": 1199.99
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "details": "Samsung Galaxy S23 with 256GB storage, 5G support, and 108MP camera.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s24-ultra/galaxy-s24-ultra-titanium-black-01-500x500.webp",
+        "category": "mobile",
+        "price": 999.99
+    },
+    {
+        "name": "Microsoft Surface Laptop 4",
+        "details": "13.5-inch touchscreen, Intel Core i5, 8GB RAM, 256GB SSD.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3/ideapad-slim-3-05-500x500.webp",
+        "category": "laptop",
+        "price": 999.99
+    },
+    {
+        "name": "ASUS ROG Strix Scar 15",
+        "details": "Gaming laptop with AMD Ryzen 9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-1-15ada7/ideapad-1-15ada7-04-500x500.webp",
+        "category": "laptop",
+        "price": 2499.99
+    },
+    {
+        "name": "Logitech G Pro Wireless",
+        "details": "Wireless gaming mouse with 16K sensor, lightweight design, and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/razer/basilisk-v3-x-hyperspeed/basilisk-v3-x-hyperspeed-01-500x500.webp",
+        "category": "mouse",
+        "price": 129.99
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "details": "Compact iPhone with 128GB storage, A15 Bionic chip, and dual camera system.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/zte/nubia-redmagic-9-pro/nubia-redmagic-9-pro-cyclone-01-500x500.webp",
+        "category": "mobile",
+        "price": 699.99
+    },
+    {
+        "name": "Corsair K95 RGB Platinum",
+        "details": "High-performance mechanical keyboard with RGB backlighting and macro keys.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/redragon/k643/k643-01-500x500.webp",
+        "category": "keyboard",
+        "price": 199.99
+    },
+    {
+        "name": "Samsung Galaxy Book Pro",
+        "details": "Ultra-thin 15.6-inch AMOLED display laptop, Intel Core i7, 16GB RAM, 1TB SSD.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-1-15amn7-sand/ideapad-1-15amn7-sand-01-500x500.webp",
+        "category": "laptop",
+        "price": 1499.99
+    },
+    {
+        "name": "Apple Magic Keyboard",
+        "details": "Wireless and rechargeable keyboard with built-in Touch ID for Mac.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/corsair/k65/k65-white-01-500x500.webp",
+        "category": "keyboard",
+        "price": 129.99
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "details": "Flagship OnePlus phone with Snapdragon 888, 120Hz display, and 65W fast charging.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/zte/nubia-z60-ultra/nubia-z60-ultra-black-500x500.webp",
+        "category": "mobile",
+        "price": 969.99
+    },
+    {
+        "name": "Razer DeathAdder Elite",
+        "details": "Gaming mouse with 16K DPI optical sensor and ergonomic design.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/havit/ms1036/ms1036-01-500x500.webp",
+        "category": "mouse",
+        "price": 69.99
+    },
+    {
+        "name": "MacBook Pro 16",
+        "details": "Apple MacBook Pro with M1 Pro chip, 16-inch Retina display, 16GB RAM, 512GB SSD.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/legion-pro-5-16arx8/legion-pro-5-16arx8-01-500x500.webp",
+        "category": "laptop",
+        "price": 2499.99
+    },
+    {
+        "name": "Logitech G915 TKL",
+        "details": "Wireless mechanical keyboard with low-profile switches and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/vertux/tantalum/vertux-tantalum-gaming-keyboard-01-500x500.png",
+        "category": "keyboard",
+        "price": 229.99
+    },
+    {
+        "name": "Google Pixel 6",
+        "details": "Google Pixel 6 with 128GB storage, Google Tensor chip, and 50MP camera.",
+        "image": "https://startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a55/galaxy-a55-02-500x500.webp",
+        "category": "mobile",
+        "price": 699.99
+    },
+    {
+        "name": "SteelSeries Rival 600",
+        "details": "Dual sensor system mouse with customizable weights and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/dareu/a918x/a918x/a918x-03-500x500.webp",
+        "category": "mouse",
+        "price": 79.99
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "details": "Business laptop with Intel Core i7, 16GB RAM, 1TB SSD, 14-inch display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-1-15ada7/ideapad-1-15ada7-04-500x500.webp",
+        "category": "laptop",
+        "price": 1799.99
+    },
+    {
+        "name": "Sony Xperia 5 III",
+        "details": "Compact flagship phone with 120Hz OLED display and triple camera system.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s23-ultra/galaxy-s23-ultra-green-01-500x500.webp",
+        "category": "mobile",
+        "price": 999.99
+    },
+    {
+        "name": "Roccat Vulcan 120 AIMO",
+        "details": "Mechanical gaming keyboard with unique Titan switches and customizable RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/aula/solakaka-k81/solakaka-k81-01-500x500.webp",
+        "category": "keyboard",
+        "price": 159.99
+    },
+    {
+        "name": "Acer Predator Helios 300",
+        "details": "Gaming laptop with Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA RTX 3060.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-forest-green-01-500x500.webp",
+        "category": "laptop",
+        "price": 1499.99
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "details": "Flagship Xiaomi phone with 256GB storage, Snapdragon 888, and 120Hz display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-fold4/galaxy-z-fold4-001-500x500.webp",
+        "category": "mobile",
+        "price": 1199.99
+    },
+    {
+        "name": "HyperX Alloy Elite 2",
+        "details": "Mechanical keyboard with RGB lighting and dedicated media keys.",
+        "image": "https://startech.com.bd/image/cache/catalog/keyboard/dareu/a87x-pro/a87x-pro-01-500x500.webp",
+        "category": "keyboard",
+        "price": 139.99
+    },
+    {
+        "name": "Dell G5 15",
+        "details": "Gaming laptop with Intel Core i5, 8GB RAM, 256GB SSD, NVIDIA GTX 1650.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/ideapad-slim-3i/ideapad-slim-3i-01-500x500.webp",
+        "category": "laptop",
+        "price": 899.99
+    },
+    {
+        "name": "Realme GT 5G",
+        "details": "High-performance Realme phone with Snapdragon 888, 120Hz display, and 65W fast charging.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s22-plus/galaxy-s22-plus-01-500x500.webp",
+        "category": "mobile",
+        "price": 599.99
+    },
+    {
+        "name": "Corsair K70 RGB MK.2",
+        "details": "Mechanical keyboard with Cherry MX switches and customizable RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/rk-royal-kludge/rk-r75/rk-r75-500x500.webp",
+        "category": "keyboard",
+        "price": 179.99
+    },
+    {
+        "name": "Lenovo Legion 5",
+        "details": "Gaming laptop with AMD Ryzen 7, 16GB RAM, 512GB SSD, NVIDIA RTX 3060.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook-plus/herobook-plus-002-500x500.webp",
+        "category": "laptop",
+        "price": 1299.99
+    },
+    {
+        "name": "ASUS ROG Phone 5",
+        "details": "Gaming phone with 256GB storage, Snapdragon 888, and 144Hz AMOLED display.",
+        "image": "https://startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-flip4/galaxy-z-flip4-001-500x500.webp",
+        "category": "mobile",
+        "price": 999.99
+    },
+    {
+        "name": "SteelSeries Apex Pro",
+        "details": "Adjustable mechanical gaming keyboard with OLED display and customizable RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/rk-royal-kludge/rk-h81/rk-h81-white-500x500.webp",
+        "category": "keyboard",
+        "price": 199.99
+    },
+    {
+        "name": "MSI GE76 Raider",
+        "details": "High-performance gaming laptop with Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1511cma/p1511cma-slate-grey-01-500x500.webp",
+        "category": "laptop",
+        "price": 2999.99
+    },
+    {
+        "name": "Google Pixel 5a",
+        "details": "Google Pixel 5a with 128GB storage, Snapdragon 765G, and 12.2MP dual-pixel camera.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/reno12-f/reno12-f-01-500x500.webp",
+        "category": "mobile",
+        "price": 449.99
+    },
+    {
+        "name": "Razer Huntsman Elite",
+        "details": "Optical mechanical gaming keyboard with RGB lighting and wrist rest.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/rk-royal-kludge/rk61-plus/rk61-plus-02-500x500.webp",
+        "category": "keyboard",
+        "price": 199.99
+    },
+    {
+        "name": "Acer Aspire 7",
+        "details": "Laptop with Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-1/ideapad-slim-1-sand-500x500.webp",
+        "category": "laptop",
+        "price": 749.99
+    },
+    {
+        "name": "OnePlus Nord 2",
+        "details": "Mid-range phone with 128GB storage, MediaTek Dimensity 1200, and 50MP camera.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a24/galaxy-a24-black-01-500x500.webp",
+        "category": "mobile",
+        "price": 399.99
+    },
+    {
+        "name": "Cooler Master MM710",
+        "details": "Ultra-light gaming mouse with honeycomb shell design and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/deepcool/mg510/mg510-01-500x500.webp",
+        "category": "mouse",
+        "price": 49.99
+    },
+    {
+        "name": "HP Omen 15",
+        "details": "Gaming laptop with AMD Ryzen 7, 16GB RAM, 512GB SSD, NVIDIA RTX 2070.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g8-ash-black/250-g8-ash-black-01-500x500.webp",
+        "category": "laptop",
+        "price": 1399.99
+    },
+    {
+        "name": "Motorola Edge 20 Pro",
+        "details": "Flagship Motorola phone with 256GB storage, Snapdragon 870, and 144Hz OLED display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a24/galaxy-a24-black-01-500x500.webp",
+        "category": "mobile",
+        "price": 699.99
+    },
+    {
+        "name": "Logitech G502 HERO",
+        "details": "High-performance gaming mouse with adjustable weights and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-rgb/m4-rgb-01-500x500.jpg",
+        "category": "mouse",
+        "price": 79.99
+    },
+    {
+        "name": "Asus ZenBook 14",
+        "details": "Ultrabook with Intel Core i7, 16GB RAM, 512GB SSD, 14-inch NanoEdge display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/legion-pro-5-16arx8/legion-pro-5-16arx8-01-500x500.webp",
+        "category": "laptop",
+        "price": 1099.99
+    },
+    {
+        "name": "Vivo X70 Pro+",
+        "details": "Flagship Vivo phone with 256GB storage, Snapdragon 888+, and 120Hz AMOLED display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/honor/x9b-5g/x9b-5g-03-500x500.webp",
+        "category": "mobile",
+        "price": 899.99
+    },
+    {
+        "name": "Razer Naga X",
+        "details": "MMO gaming mouse with 16 programmable buttons and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/fantech/xd5/xd5-space-edition-02-500x500.jpg",
+        "category": "mouse",
+        "price": 79.99
+    },
+    {
+        "name": "HP Envy 13",
+        "details": "Laptop with Intel Core i7, 16GB RAM, 512GB SSD, 13.3-inch 4K display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-1-15ada7/ideapad-1-15ada7-04-500x500.webp",
+        "category": "laptop",
+        "price": 1299.99
+    },
+    {
+        "name": "Realme GT Neo 2",
+        "details": "Mid-range phone with 128GB storage, Snapdragon 870, and 120Hz AMOLED display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s23-ultra/galaxy-s23-ultra-green-01-500x500.webp",
+        "category": "mobile",
+        "price": 499.99
+    },
+    {
+        "name": "HyperX Pulsefire FPS Pro",
+        "details": "Gaming mouse with 16K DPI sensor, ergonomic design, and RGB lighting.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/fantech/helios-xd3/helios-xd3-01-500x500.jpg",
+        "category": "mouse",
+        "price": 59.99
+    },
+    {
+        "name": "Dell Inspiron 15 3000",
+        "details": "Laptop with Intel Core i5, 8GB RAM, 256GB SSD, 15.6-inch display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-forest-green-01-500x500.webp",
+        "category": "laptop",
+        "price": 649.99
+    },
+    {
+        "name": "Poco X4 Pro",
+        "details": "Affordable phone with 128GB storage, Snapdragon 695, and 120Hz AMOLED display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-fold4/galaxy-z-fold4-001-500x500.webp",
+        "category": "mobile",
+        "price": 299.99
+    },
+    {
+        "name": "Redragon M601",
+        "details": "Budget gaming mouse with 3200 DPI sensor and customizable buttons.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/hyperx/pulsefire-haste/pulsefire-haste-01-500x500.jpg",
+        "category": "mouse",
+        "price": 29.99
+    },
+    {
+        "name": "Lenovo Yoga Slim 7",
+        "details": "Laptop with AMD Ryzen 7, 16GB RAM, 1TB SSD, 14-inch display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/ideapad-slim-3i/ideapad-slim-3i-01-500x500.webp",
+        "category": "laptop",
+        "price": 1199.99
+    },
+    {
+        "name": "Oppo Find X3 Pro",
+        "details": "Flagship Oppo phone with 256GB storage, Snapdragon 888, and 120Hz AMOLED display.",
+        "image": "startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-flip4/galaxy-z-flip4-001-500x500.webp",
+        "category": "mobile",
+        "price": 1099.99
+    },
+    {
+        "name": "Apple AirPods Pro",
+        "details": "Noise-cancelling wireless earbuds with spatial audio and a MagSafe charging case.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/earbuds/apple/airpods-3rd-generation/airpods-3rd-generation-01-500x500.webp",
+        "category": "popular",
+        "price": 249.99
+    },
+    {
+        "name": "Samsung Galaxy Watch 5",
+        "details": "Smartwatch with advanced health monitoring and fitness tracking features.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/samsung/galaxy-watch5-44mm/galaxy-watch5-44mm-01-500x500.webp",
+        "category": "popular",
+        "price": 349.99
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "details": "Wireless noise-cancelling over-ear headphones with industry-leading sound quality.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/wh-1000xm5/wh-1000xm5-02-500x500.webp",
+        "category": "popular",
+        "price": 399.99
+    },
+    {
+        "name": "Nintendo Switch OLED",
+        "details": "Popular handheld gaming console with an upgraded OLED display.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/neon-blue-neon-red/neon-blue-neon-red-500x500.webp",
+        "category": "popular",
+        "price": 349.99
+    },
+    {
+        "name": "Amazon Echo (4th Gen)",
+        "details": "Smart speaker with Alexa voice assistant and premium sound.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/speaker/edifier/ms50a/ms50a-01-500x500.webp",
+        "category": "popular",
+        "price": 99.99
+    },
+    {
+        "name": "Fitbit Charge 5",
+        "details": "Advanced fitness and health tracker with built-in GPS and heart rate monitor.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/google/pixel-watch/google-pixel-watch-black-01-500x500.webp",
+        "category": "popular",
+        "price": 179.99
+    },
+    {
+        "name": "Dyson V11 Cordless Vacuum",
+        "details": "High-performance cordless vacuum with powerful suction and long battery life.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/appliance/vacuum-cleaner/panasonic/mc-cl431/mc-cl431-500x500.webp",
+        "category": "popular",
+        "price": 599.99
+    },
+    {
+        "name": "GoPro HERO10 Black",
+        "details": "Waterproof action camera with 5.3K video and hyper-smooth stabilization.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/camera/action-camera/gopro/hero-9/hero-9-05-500x500.jpg",
+        "category": "popular",
+        "price": 499.99
+    },
+    {
+        "name": "JBL Charge 5",
+        "details": "Portable waterproof Bluetooth speaker with powerful sound and long battery life.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/speaker/jbl/go-4/go-4-01-500x500.webp",
+        "category": "popular",
+        "price": 179.99
+    },
+    {
+        "name": "PlayStation 5",
+        "details": "Next-generation gaming console with 4K gaming, ultra-fast SSD, and haptic feedback.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/play-station/sony/ps4-slim-jet/ps4-slim-jet-1-500x500.jpg",
+        "category": "popular",
+        "price": 499.99
+    },
+    {
+        "name": "Instant Pot Duo",
+        "details": "7-in-1 electric pressure cooker, slow cooker, rice cooker, and more.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/instant-camera/fujifilm/instax-mini-11/instax-mini-11-charcoal-gray-500x500.webp",
+        "category": "popular",
+        "price": 89.99
+    },
+    {
+        "name": "Apple iPad Pro 12.9",
+        "details": "Apple iPad Pro with M1 chip, Liquid Retina XDR display, and 128GB storage.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-pro-11-inch-2024/ipad-pro-m4-2024-space-black-500x500.webp",
+        "category": "popular",
+        "price": 1099.99
+    }
+]
